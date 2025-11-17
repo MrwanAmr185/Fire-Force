@@ -4,10 +4,10 @@ Fire-Force is an embedded safety system designed to monitor both eye and head mo
 
 When an abnormal or unsafe event is detected, the system operates in multiple stages:
 
-##Driver Alert Stage
+## Driver Alert Stage
 The system activates a buzzer and an LED indicator to warn the driver and request an immediate response.
 
-##Fail-Safe Stage
+## Fail-Safe Stage
 If the driver does not respond within a defined safety window, the system automatically:
 
 Reduces the vehicle’s speed to a safe level.
